@@ -1,0 +1,3 @@
+# Digit-Recognizer
+
+It is a Digit Recognizer Model developed using Artificial Neural Networks...
